@@ -1,7 +1,9 @@
+# Periodic Cooking
+
 #### This game was created at the [Wonderland Hackathon](https://github.com/hackclub/wonderland).
 
 
-# Chest Ten
+## Chest Ten
 
 ### Started With:
 - Waffle Maker
