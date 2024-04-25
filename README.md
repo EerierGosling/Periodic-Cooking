@@ -51,6 +51,7 @@ The game can be found at https://github.com/EerierGosling/Wonderland-Periodic-Co
 ![A person looking at our program](ReadMe_Pictures/IMG_1404.jpg)
 
 ![The team](ReadMe_Pictures/team.jpeg)
+![The team](ReadMe_Pictures/IMG_0317.JPG)
 
 ### Project Summary
 We ended up making a Unity-based chemistry & cooking game which combined the food and the periodic tables. The game helped people strenghen their chemistry skills, forcing them to remember how chemical equations work in order to add the right ingredients.
