@@ -1,4 +1,4 @@
-# Periodic Cooking
+# Periodic Cooking 
 
 #### This game was created at the [Wonderland Hackathon](https://github.com/hackclub/wonderland).
 
